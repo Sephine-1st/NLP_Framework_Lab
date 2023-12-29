@@ -16,9 +16,9 @@ Le principal objectif de ce projet tourne autour de l'utilisation de Fairseq et 
 2. Évaluation de l'impact du réglage fin par rapport à un modèle pré-entraîné.
 3. Le réglage fin d'une variante de BLOOM sur un ensemble de données de questions/réponses.
 
-#### Conclusion :
+#### Exécution du code :
 
-Le projet offre une enquête approfondie sur Fairseq et les transformers HuggingFace pour la modélisation du langage et l'analyse de sentiments. Les résultats fournissent des perspectives précieuses sur l'efficacité du réglage fin des modèles pré-entraînés pour des tâches spécifiques, éclairant les subtilités de l'adaptation du modèle et de l'évaluation des performances.
+L'exécution du code nécessite l'installation d'un certains nombre de librairies idoines et compatibles. En particulier les bonnes version de bitsandbytes sur GPU. Le script s'exécute intégralement via un clique bouton
 
 ---------------------------------------------
 
@@ -37,4 +37,6 @@ The primary focus of this project revolves around the utilization of Fairseq and
 2. Assessing the impact of fine-tuning in comparison to a pre-trained model.
 3. Fine-tuning a variant of BLOOM on a question/answer dataset.
 
-#### Conclusion
+#### How to run the code
+
+The execution of the code requires the installation of a certain number of suitable and compatible libraries, particularly the correct versions of bitsandbytes for GPU. The script runs entirely with a single button click.
