@@ -6,7 +6,7 @@
 #### Résumé :
 
 Ce projet a été mené dans le cadre du cours ALTeGrad - Apprentissage Avancé pour les Données Textuelles et Graphiques(cours commun entre le Master MVA et le Master 2 Data Science X). La conception de l'énoncé et de la trame des tâches ont été pensées par Dr. G. Shang, H. Abdine.
-**Key words** *Fairseq, HuggingFace Transformers, Language Modeling, Sentiment Analysis*
+**Mots Clefs** *Fairseq, HuggingFace Transformers, Language Modeling, Sentiment Analysis*
 
 #### Objectif :
 
@@ -27,7 +27,7 @@ L'exécution du code nécessite l'installation d'un certains nombre de librairie
 #### Abstract:
 
 This project was conducted as part of the ALTeGrad course - Advanced Learning for Text and Graph Data, a common teaching beetween Master MVA and Master 2 Data Science X . The formulation of the project statement and task framework was orchestrated by Dr. G. Shang and H. Abdine.
-**Mots Clefs** *Fairseq, HuggingFace Transformers, Language Modeling, Sentiment Analysis*
+**Key words** *Fairseq, HuggingFace Transformers, Language Modeling, Sentiment Analysis*
 
 #### Objective:
 
